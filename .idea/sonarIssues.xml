@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Scala REPL">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.m2/sett.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/sett.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/DataGenerator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/learn/karate/ConduitTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/learn/karate/feature/articles.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/learn/karate/feature/homepage.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/learn/karate/feature/signup.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/learn/karate/helpers/DataGenerator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/learn/karate/performance/articleCreate.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/vocalink/pr/ConduitTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/vocalink/pr/ExamplesTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/vocalink/pr/feature/UsersRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/vocalink/pr/feature/addlikes.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/vocalink/pr/feature/articles.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/vocalink/pr/feature/homepage.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/vocalink/pr/feature/hooks.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/vocalink/pr/feature/signup.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/vocalink/pr/feature/test.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/vocalink/pr/helpers/CreateToken.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/vocalink/pr/helpers/DataGenerator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/vocalink/pr/performance/PerfTest.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/vocalink/pr/performance/articleCreate.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/vocalink/pr/time.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/vocalink/pr/users/UsersRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/examples/ExamplesTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/karate-config.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/json/newArticleRequest.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/karate-config.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/logback-test.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/timeValidator.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../fcs-test-automation/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../fcs-test-automation/src/main/java/com/vocalink/fcstestautomation/models/Transaction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../fcs-test-automation/src/main/java/com/vocalink/fcstestautomation/models/dest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../fcs-test-automation/src/main/java/com/vocalink/fcstestautomation/models/settlement.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../fcs-test-automation/src/main/java/com/vocalink/fcstestautomation/models/source.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../fcs-test-automation/src/main/java/com/vocalink/fcstestautomation/models/sourceDevice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../fcs-test-automation/src/test/java/com/vocalink/fcstestautomation/stepdefs/PaymenItemStepDefs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kafka-avro-v1/src/main/java/com/learn/KafkaAvroJavaConsumerV1Demo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kafka-consumer-utility/consumer.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kafka-consumer-utility/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kafka-consumer-utility/src/main/java/sample/Controller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kafka-consumer-utility/src/main/java/sample/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kafka-consumer-utility/src/main/resources/application.fxml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pr-api-test-automation/src/main/java/TestIt.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pr-api-test-automation/src/main/resources/some.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/gatling3-fundamentals/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/gatling3-fundamentals/src/test/scala/MyFirstTest.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/junit5-learn/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/junit5-learn/src/test/java/com/learn/ju/TestBMI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/kafka-consumer-utility/consumer.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/kafka-consumer-utility/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/kafka-consumer-utility/src/main/java/com/vocalink/fcs/KafkaUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/kafka-consumer-utility/src/main/java/com/vocalink/fcs/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/main/java/com/learn/mockitojunit/earnmockitojunit/EarnMockitoJunitApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/main/java/com/learn/mockitojunit/earnmockitojunit/HelloWorldController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/main/java/com/learn/mockitojunit/earnmockitojunit/LearnMockitoJunitApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/main/java/com/learn/mockitojunit/earnmockitojunit/SomeBusinessImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/main/java/com/learn/mockitojunit/earnmockitojunit/SomeDataService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/main/java/com/learn/mockitojunit/learnmockitojunit/HelloWorldController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/main/java/com/learn/mockitojunit/learnmockitojunit/ItemController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/main/java/com/learn/mockitojunit/learnmockitojunit/LearnMockitoJunitApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/main/java/com/learn/mockitojunit/learnmockitojunit/SomeBusinessImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/main/java/com/learn/mockitojunit/learnmockitojunit/SomeDataService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/main/java/controller/HelloWorldController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/main/java/controller/ItemController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/main/java/model/Item.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/main/java/service/ItemBusinessService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/main/java/service/ItemBusinessServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/test/java/com/learn/mockitojunit/earnmockitojunit/ListMockTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/test/java/com/learn/mockitojunit/earnmockitojunit/SomeDataServicesStub.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/test/java/com/learn/mockitojunit/earnmockitojunit/SumBusinessMockTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/test/java/com/learn/mockitojunit/earnmockitojunit/SumBusinessStubTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/test/java/com/learn/mockitojunit/earnmockitojunit/SumBusinessTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/test/java/com/learn/mockitojunit/learnmockitojunit/HelloWorldControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/test/java/com/learn/mockitojunit/learnmockitojunit/ItemBusinessServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/test/java/com/learn/mockitojunit/learnmockitojunit/ItemControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/test/java/com/learn/mockitojunit/learnmockitojunit/JsonAssertTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/test/java/com/learn/mockitojunit/learnmockitojunit/ListMockTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/test/java/com/learn/mockitojunit/learnmockitojunit/SomeDataServicesStub.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/test/java/com/learn/mockitojunit/learnmockitojunit/SumBusinessMockTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/test/java/com/learn/mockitojunit/learnmockitojunit/SumBusinessStubTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/test/java/com/learn/mockitojunit/learnmockitojunit/SumBusinessTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vdi/learn-mockito-junit/src/test/java/controller/HelloWorldController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
